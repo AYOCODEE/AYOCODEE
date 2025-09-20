@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ayomide Otinwa
 
 I’m a data analyst and AI enthusiast with hands-on experience in delivering business intelligence, predictive modeling, and generative AI solutions across e-commerce, consumer goods, education, and regulatory services.  
-Currently pursuing my MSc in Applied Artificial Intelligence at South East Technological University (IT Carlow), with a focus on deploying lightweight CNNs for real-time agricultural assessment.
+I have an MSc in Applied Artificial Intelligence at South East Technological University (IT Carlow), with a focus on deploying lightweight CNNs for real-time agricultural assessment.
 
 ## 🚀 What I Do
 - **Business Intelligence & Analytics:** Designed Power BI and Tableau dashboards that unified KPIs across ERP/CRM systems, improving reporting efficiency by 40%.
