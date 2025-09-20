@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ayomide Otinwa
+# Hi 👋 I'm Ayomide Otinwa
 
 I’m a data analyst and AI enthusiast with hands-on experience in delivering business intelligence, predictive modeling, and generative AI solutions across e-commerce, consumer goods, education, and regulatory services.  
 I have an MSc in Applied Artificial Intelligence at South East Technological University (IT Carlow), with a focus on deploying lightweight CNNs for real-time agricultural assessment.
