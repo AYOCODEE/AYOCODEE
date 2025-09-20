@@ -11,7 +11,19 @@ I have an MSc in Applied Artificial Intelligence at South East Technological Uni
 - **AI for Agriculture:** Researching and building edge-deployable models for banana ripeness and decay detection, with practical applications in food supply chains.
 
 ## 🛠️ Technical Skills
-Python | Tensorflow | Scikit-Learn | PyTorch | SQL | Power BI | Tableau | Pandas | PySpark | AWS | Data Visualization | Data Governance
+Programming & Analytics:  
+Python, SQL, PySpark, Microsoft Excel (Power Query, PivotTables), Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, PostgreSQL, 
+AWS, Git 
+
+Machine Learning & AI:  
+Feature Engineering, Predictive Analytics, NLP, Computer Vision, TensorFlow Lite, Model Deployment (Flask, Edge Devices) 
+
+Data Visualization & BI Tools:  
+Power BI (DAX, Power Query), Tableau, Looker, Matplotlib, Seaborn, Plotly, Excel Dashboards 
+
+Competencies: 
+Data Wrangling, ETL Development, Statistical Modeling, Predictive & Prescriptive Analytics, Business Intelligence Reporting, Data 
+Storytelling, Stakeholder Engagement, Agile Project Delivery, Data Governance
 
 ## 🏆 Recent Projects
 - [Banana Decay Assessment via Knowledge Distillation](https://github.com/AYOCODEE/Banana-Decay-Assessment-Via-Knowledge-Distillation): Edge AI for banana quality monitoring.
